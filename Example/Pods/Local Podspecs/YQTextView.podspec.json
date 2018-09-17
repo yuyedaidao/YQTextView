@@ -1,0 +1,22 @@
+{
+  "name": "YQTextView",
+  "version": "0.1.0",
+  "summary": "A short description of YQTextView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wyqpadding@gmail.com/YQTextView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wyqpadding@gmail.com": "wyqpadding@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/wyqpadding@gmail.com/YQTextView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YQTextView/Classes/**/*"
+}

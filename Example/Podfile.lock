@@ -1,0 +1,16 @@
+PODS:
+  - YQTextView (0.1.0)
+
+DEPENDENCIES:
+  - YQTextView (from `../`)
+
+EXTERNAL SOURCES:
+  YQTextView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YQTextView: d0a88ae1d86aa95b8934783def23bb6810ee55ac
+
+PODFILE CHECKSUM: 2e78e3bab28eb9a5a3adcf2c798e9d6f75f3756f
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module YQTextView {
+  umbrella header "YQTextView-umbrella.h"
+
+  export *
+  module * { export * }
+}
