@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YQTextView_Example' do
+  pod 'YQTextView', :path => '../'
+
+  target 'YQTextView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
